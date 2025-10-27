@@ -92,7 +92,7 @@ O código será avaliado e testado por **Johnny Souto**, levando em consideraç�
 ### **Passo 2: Configuração do GitFlow**
 3. Entre na pasta do projeto:
    ```bash
-   cd desafio_pepsi_landing-page
+   cd desafio_admin-dashboard
    ```
 4. Crie uma branch `develop` a partir da `main`:
    ```bash
