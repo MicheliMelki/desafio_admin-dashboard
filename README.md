@@ -108,6 +108,7 @@ O código será avaliado e testado por **Johnny Souto**, levando em consideraç�
 7. Faça commits organizados e descritivos
 8. Merge das features na `develop` quando completas
 9. Ao finalizar, merge da `develop` na `main`
+10. Finalizado o código no repositório, realizar o deploy na [Vercel](https://www.vercel.com)
 
 ## 📦 Entrega
 
@@ -115,6 +116,10 @@ O código será avaliado e testado por **Johnny Souto**, levando em consideraç�
 - Garantir que o projeto esteja funcionando corretamente
 - Incluir instruções de como executar o projeto (se necessário)
 - Realizar o deploy do seu repositório na [Vercel](https://www.vercel.com)
+
+## 📌 Dica Final
+
+Leiam sobre como deve ser feita as boas práticas do GitFlow, clique [aqui](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 
 ---
 
